@@ -1,7 +1,7 @@
 02.01.2021
-Plus:	- Verknüpfungen zu PCBA-Test entfernen
-	- M12 mit Basis-Print ausrichten (Deckungsgleichheit)
-	- Durchbrüche in Deckel Plus
+Plus:	- ok- Verknüpfungen zu PCBA-Test entfernen
+	- ok- M12 mit Basis-Print ausrichten (Deckungsgleichheit)
+	- ok- Durchbrüche in Deckel Plus
 	- Abdichtung Inkrementalgeber
 	- Größenvergleich zu MPC2 herstellen
 	- Deckel auf 4 mm dicke erhöhen?
