@@ -2,6 +2,6 @@
 Plus:	- ok- Verknüpfungen zu PCBA-Test entfernen
 	- ok- M12 mit Basis-Print ausrichten (Deckungsgleichheit)
 	- ok- Durchbrüche in Deckel Plus
-	- Abdichtung Inkrementalgeber
-	- Größenvergleich zu MPC2 herstellen
-	- Deckel auf 4 mm dicke erhöhen?
+	- ok- Abdichtung Inkrementalgeber
+	- ok- Größenvergleich zu MPC2 herstellen
+	- ok- Deckel auf 4 mm dicke erhöhen?
