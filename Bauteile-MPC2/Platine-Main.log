@@ -1,0 +1,54 @@
+ParaSTEPlib version 4.85 Conversion Messages
+=======================================
+
+ ---- Body is a Valid Parasolid body ----
+=======================================
+Start of Conversion Summary for Model 1
+=======================================
+Entity conversion ...
+Topology : 3441 total entities
+	Bodies			:	1
+	Shells			:	1
+	Faces			:	359
+	Loops			:	1218
+	Fins			:	1236
+	Edges			:	618
+	Vertices		:	8
+
+Geometry : 985 total entities
+  Surfaces : 359 total surfaces
+	Planes			:	56
+	Cylinders		:	303
+	Cones			:	0
+	Spheres			:	0
+	Tori			:	0
+	Bsplines		:	0
+	Sweep			:	0
+	Spun			:	0
+	Offset			:	0
+  Curves : 618 total curves
+	Lines			:	12
+	Circles			:	606
+	Ellipses		:	0
+	BSplines		:	0
+	SP_Curves		:	0
+  Points : 8 total points
+=======================================
+End of Conversion Summary for Model 1
+=======================================
+
+Conversion Summary...
+=======================================
+No. of solid bodies present in Parasolid file  1
+No. of valid solid bodies present in Parasolid file  1
+No. of solid bodies successfully written in STEP file  1
+-- Model written to Part21 File Successfully
+
+
+STEP write options used
+=======================================
+Parasolid version :                12.0.220
+step_write_length_unit_value     =  MILLIMETRES
+sheet_write_value                =  write_sheet_as_surface_model
+solid_write_value                =  write_solid_as_solid
+wire_write_value                 =  write_wire_as_non_topol_wireframe
