@@ -1,0 +1,96 @@
+Info:           Start_Modeler
+Info:     ========================
+Info: 
+Info: =================================================
+Info: Software Information
+Info: 
+Info: PARASOLID Version: 17.0.244
+Info: PSBodyshop Version: 7.1.148
+Info: SOLID EDGE Version: 18.00.04.07
+Info: Log file is written by GENERIC/IGES Library.
+Info: ============================================================
+Info: Iges Read Options
+Info: 
+Info: IgPar_SewBody_Get: 1
+Info: IgPar_SewTolerance Min: 0.000000000000000
+Info: IgPar_SewTolerance Max: 0.000000000000000
+Info: IgPar_SewTolerance Step: 10.000000000000000
+Info: IgPar_ConvTrimmedFaces_Get: 1
+Info: IgPar_ConvFreeSurfs_Get: 1
+Info: IgPar_ConvSolid_Get: 1
+Info: IgPar_ConvFreeCurves_Get: 1
+Info: IgPar_ConvBlankedEnt_Get: 1
+Info: PSIGES_API::GetHeaderInfo: 
+Info:      iges_spec_ver: 10
+Info:      unit_id: 0
+Info:      model_scale: 1.000000
+Info:      max_coord: 1000.000000
+Info:      resol: 0.000001
+Info:      units: Unspecified
+Info:      product_id: Unspecified
+Info:      file_name: Unspecified
+Info:      sending_sys: Unspecified
+Info:      preproc_ver: Unspecified
+Info:      author: Unspecified
+Info:      author_org: Unspecified
+Info:      creat_time: Unspecified
+Info:      receiving_sys: Unspecified
+Info:      line_weight: 1
+Info:      line_width: 1.000000
+Info: IgPar_TransferAttrib_Get: 1
+Info: ============================================================
+Info: Translation Process
+Info: 
+Info: End of Line character 1 bytes long.
+Info: Log file generated for IGES file D:\Firma\MPCnew_GitHub\Gehaeuse\RJ45\Download_IGS_726154101 (rev1).igs
+Info: End of Line character 1 bytes long.
+Info: 
+------------------------------LINES SUMMARY-------------------------------
+
+Info: 
+----------------------------IGES READ OPTIONS-------------------------------
+  
+Info: Read Free Curves       :1                                                       
+Info: Read Free Surfs        :1                                                       
+Info: Read MSBOs             :1                                                       
+Info: Read Trim Surfs        :1                                                       
+Info: Read Free Points       :0                                                       
+Info: Read Groups Ents       :1                                                       
+Info: Read GroupsAsSubfig     0                                                       
+Info: Read Subfigures        :1                                                       
+Info: Read Hidden Ents       :1                                                       
+Info: Masking Flag           :0                                                       
+Info: Transfer Attributes    :0                                                       
+Info: User Trim Curve Pref   :0                                                       
+Info: Copious Data To Many   :0                                                       
+Info: Copious Data To Lines  :0                                                       
+Info: Autocad Read Flavor    :0                                                       
+Info: 
+Total No. of Root Entities Read  : 50
+Info: Total No. of Hidden Entities Read: 0
+Info: Total No. of Unsupported entities: 0
+Info: 
+Info: Translation succeeded
+Info: Total number of faces: 0
+Info: Total number of edges: 0
+Info: Total number of vertices: 0
+Info: Number of bodies found in the Iges file: 50
+Info: ============================================================
+Info: Number of bad entities removed: 0
+Info: Number of bodies saved in file: 50
+Info: =================================================
+Info: Simplify Geometry Option
+Info: 
+Info: Simplify Geometry option selected
+Info: Simplify Geometry succeeded
+Info: =================================================
+Info: Transmitting bodies into SolidEdge
+Info: 
+Info: There are 0 Solid bodies
+Info: There are 50 Sheet bodies
+Info: There are 0 Wire bodies
+Info: Transmitting 50 bodies into Solid Edge.
+Info: =================================================
+Info: 
+Info:     ========================
+Info:           Stop_Modeler
