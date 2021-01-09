@@ -990,3 +990,121 @@ step_write_length_unit_value     =  MILLIMETRES
 sheet_write_value                =  write_sheet_as_surface_model
 solid_write_value                =  write_solid_as_solid
 wire_write_value                 =  write_wire_as_non_topol_wireframe
+Parasolid -> SE
+============================================================
+Dateiname: D:\02_Users\Rainer\Firma\3D-OSII\MPCnew\MPCnew3D-git\Gehaeuse\Bauteile-MPC2\3m-26polig.x_t
+Parasolid-Dateiversion: 17.0.244
+Baugruppe 0 beginnen
+Gesamtteile :  27
+Baugruppen: 0
+Volumenkörper: 27
+Flächen:  0
+============================================================
+Volumenkörper 1 of 27 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Firma\3D-OSII\MPCnew\MPCnew3D-git\Gehaeuse\Bauteile-MPC2\3m-Stift.par wurde erstellt
+3m-Stift.par:1 wird platziert
+============================================================
+Volumenkörper 2 of 27 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Firma\3D-OSII\MPCnew\MPCnew3D-git\Gehaeuse\Bauteile-MPC2\3m-Stift_1.par wurde erstellt
+3m-Stift_1.par:1 wird platziert
+============================================================
+Volumenkörper 3 of 27 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Firma\3D-OSII\MPCnew\MPCnew3D-git\Gehaeuse\Bauteile-MPC2\3m-Stift_3.par wurde erstellt
+3m-Stift_3.par:1 wird platziert
+============================================================
+Volumenkörper 4 of 27 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Firma\3D-OSII\MPCnew\MPCnew3D-git\Gehaeuse\Bauteile-MPC2\3m-Stift_5.par wurde erstellt
+3m-Stift_5.par:1 wird platziert
+============================================================
+Volumenkörper 5 of 27 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Firma\3D-OSII\MPCnew\MPCnew3D-git\Gehaeuse\Bauteile-MPC2\3m-Stift_7.par wurde erstellt
+3m-Stift_7.par:1 wird platziert
+============================================================
+Volumenkörper 6 of 27 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Firma\3D-OSII\MPCnew\MPCnew3D-git\Gehaeuse\Bauteile-MPC2\3m-Stift_9.par wurde erstellt
+3m-Stift_9.par:1 wird platziert
+============================================================
+Volumenkörper 7 of 27 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Firma\3D-OSII\MPCnew\MPCnew3D-git\Gehaeuse\Bauteile-MPC2\3m-Stift_11.par wurde erstellt
+3m-Stift_11.par:1 wird platziert
+============================================================
+Volumenkörper 8 of 27 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Firma\3D-OSII\MPCnew\MPCnew3D-git\Gehaeuse\Bauteile-MPC2\3m-Stift_13.par wurde erstellt
+3m-Stift_13.par:1 wird platziert
+============================================================
+Volumenkörper 9 of 27 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Firma\3D-OSII\MPCnew\MPCnew3D-git\Gehaeuse\Bauteile-MPC2\3m-Stift_15.par wurde erstellt
+3m-Stift_15.par:1 wird platziert
+============================================================
+Volumenkörper 10 of 27 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Firma\3D-OSII\MPCnew\MPCnew3D-git\Gehaeuse\Bauteile-MPC2\3m-Stift_17.par wurde erstellt
+3m-Stift_17.par:1 wird platziert
+============================================================
+Volumenkörper 11 of 27 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Firma\3D-OSII\MPCnew\MPCnew3D-git\Gehaeuse\Bauteile-MPC2\3m-Stift_19.par wurde erstellt
+3m-Stift_19.par:1 wird platziert
+============================================================
+Volumenkörper 12 of 27 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Firma\3D-OSII\MPCnew\MPCnew3D-git\Gehaeuse\Bauteile-MPC2\3m-Stift_21.par wurde erstellt
+3m-Stift_21.par:1 wird platziert
+============================================================
+Volumenkörper 13 of 27 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Firma\3D-OSII\MPCnew\MPCnew3D-git\Gehaeuse\Bauteile-MPC2\3m-Stift_23.par wurde erstellt
+3m-Stift_23.par:1 wird platziert
+============================================================
+Volumenkörper 14 of 27 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Firma\3D-OSII\MPCnew\MPCnew3D-git\Gehaeuse\Bauteile-MPC2\3m-Stift_25.par wurde erstellt
+3m-Stift_25.par:1 wird platziert
+============================================================
+Volumenkörper 15 of 27 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Firma\3D-OSII\MPCnew\MPCnew3D-git\Gehaeuse\Bauteile-MPC2\3m-Stift_27.par wurde erstellt
+3m-Stift_27.par:1 wird platziert
+============================================================
+Volumenkörper 16 of 27 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Firma\3D-OSII\MPCnew\MPCnew3D-git\Gehaeuse\Bauteile-MPC2\3m-Stift_29.par wurde erstellt
+3m-Stift_29.par:1 wird platziert
+============================================================
+Volumenkörper 17 of 27 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Firma\3D-OSII\MPCnew\MPCnew3D-git\Gehaeuse\Bauteile-MPC2\3m-Stift_31.par wurde erstellt
+3m-Stift_31.par:1 wird platziert
+============================================================
+Volumenkörper 18 of 27 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Firma\3D-OSII\MPCnew\MPCnew3D-git\Gehaeuse\Bauteile-MPC2\3m-Stift_33.par wurde erstellt
+3m-Stift_33.par:1 wird platziert
+============================================================
+Volumenkörper 19 of 27 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Firma\3D-OSII\MPCnew\MPCnew3D-git\Gehaeuse\Bauteile-MPC2\3m-Stift_35.par wurde erstellt
+3m-Stift_35.par:1 wird platziert
+============================================================
+Volumenkörper 20 of 27 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Firma\3D-OSII\MPCnew\MPCnew3D-git\Gehaeuse\Bauteile-MPC2\3m-Stift_37.par wurde erstellt
+3m-Stift_37.par:1 wird platziert
+============================================================
+Volumenkörper 21 of 27 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Firma\3D-OSII\MPCnew\MPCnew3D-git\Gehaeuse\Bauteile-MPC2\3m-Stift_39.par wurde erstellt
+3m-Stift_39.par:1 wird platziert
+============================================================
+Volumenkörper 22 of 27 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Firma\3D-OSII\MPCnew\MPCnew3D-git\Gehaeuse\Bauteile-MPC2\3m-Stift_41.par wurde erstellt
+3m-Stift_41.par:1 wird platziert
+============================================================
+Volumenkörper 23 of 27 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Firma\3D-OSII\MPCnew\MPCnew3D-git\Gehaeuse\Bauteile-MPC2\3m-Stift_43.par wurde erstellt
+3m-Stift_43.par:1 wird platziert
+============================================================
+Volumenkörper 24 of 27 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Firma\3D-OSII\MPCnew\MPCnew3D-git\Gehaeuse\Bauteile-MPC2\3m-Stift_45.par wurde erstellt
+3m-Stift_45.par:1 wird platziert
+============================================================
+Volumenkörper 25 of 27 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Firma\3D-OSII\MPCnew\MPCnew3D-git\Gehaeuse\Bauteile-MPC2\3m-Stift_47.par wurde erstellt
+3m-Stift_47.par:1 wird platziert
+============================================================
+Volumenkörper 26 of 27 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Firma\3D-OSII\MPCnew\MPCnew3D-git\Gehaeuse\Bauteile-MPC2\3m-Stift_49.par wurde erstellt
+3m-Stift_49.par:1 wird platziert
+============================================================
+Volumenkörper 27 of 27 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Firma\3D-OSII\MPCnew\MPCnew3D-git\Gehaeuse\Bauteile-MPC2\3m-26polig.par wurde erstellt
+3m-26polig.par:1 wird platziert
+============================================================

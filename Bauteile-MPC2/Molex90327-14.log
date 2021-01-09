@@ -52,3 +52,17 @@ step_write_length_unit_value     =  MILLIMETRES
 sheet_write_value                =  write_sheet_as_surface_model
 solid_write_value                =  write_solid_as_solid
 wire_write_value                 =  write_wire_as_non_topol_wireframe
+Parasolid -> SE
+============================================================
+Dateiname: D:\02_Users\Rainer\Firma\3D-OSII\MPCnew\MPCnew3D-git\Gehaeuse\Bauteile-MPC2\Molex90327-14.x_t
+Parasolid-Dateiversion: 17.0.244
+Baugruppe 0 beginnen
+Gesamtteile :  1
+Baugruppen: 0
+Volumenkörper: 1
+Flächen:  0
+============================================================
+Volumenkörper 1 of 1 wird verarbeitet
+SE Part-Datei D:\02_Users\Rainer\Firma\3D-OSII\MPCnew\MPCnew3D-git\Gehaeuse\Bauteile-MPC2\903273314.par wurde erstellt
+903273314.par:1 wird platziert
+============================================================
