@@ -5,3 +5,6 @@ Plus:	- ok- Verknüpfungen zu PCBA-Test entfernen
 	- ok- Abdichtung Inkrementalgeber
 	- ok- Größenvergleich zu MPC2 herstellen
 	- ok- Deckel auf 4 mm dicke erhöhen?
+10.01.2021
+	- Kappen für Deutsch DC12P-DC/ dc4p-DC / dc8p-DC
+	- Stecker A-grau, B-sw, C-gn, D-bn
